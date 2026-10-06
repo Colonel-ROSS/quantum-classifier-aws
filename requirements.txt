@@ -1,0 +1,6 @@
+pennylane
+scikit-learn
+numpy
+scipy
+matplotlib
+boto3
